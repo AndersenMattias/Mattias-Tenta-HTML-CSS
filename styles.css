@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
 
+@keyframes swapColor {
+  from {background-color: rgb(0, 255, 102);}
+  to {background-color: rgb(0, 187, 255);}
+}
+
+@keyframes movingObject {
+  0%   {background-color:rgb(0, 255, 60); left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
 
 body {
   background-color: rgb(114, 177, 177);
@@ -59,6 +71,28 @@ body {
 .lists ul ol{
   list-style: upper-roman;
 }
+
+.lists li {
+  text-decoration: none;
+}
+
+/* listsida slut */
+
+/* grafiska css */
+
+.kameleont {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(255, 174, 0);
+  animation-name: swapColor;
+  animation-duration: 6s;
+  padding: 1.5rem;
+  margin: 1.5rem;
+}
+
+
+
+/* grafiska slut */
 
 
 
