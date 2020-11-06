@@ -1,0 +1,21 @@
+Er arbetsmetod och motivering av de lösningar och valda tekniker ni använt i Uppgift 1. 
+
+Fått stressa, otydliga instruktioner, vad menar ni här?
+
+- Diskutera fördelar och nackdelar med användandet av responsiv design och media queries 
+
+Fördelarna är väl fler än nackdelarna? Man kan få till en klockren design med media queries? VIlken användare som helst kan ha tillgång till sidan? 
+Fungerar oavsett device..
+
+
+- Reflektera över och motivera varför en ska använda semantisk korrekt HTML 
+
+Det beskriver varje element, då har man koll på vad som är vad, en nav är ju troligtvis där uppe med olika punkter, home, about m.m.
+
+footer är i botten med en copy tag t.ex, man får bättre koll på det hela
+
+- Reflektera över Flexboxs användningsområden 
+
+Flexbox är smidigt på en navbar, eller wrappa allt content i en "container" blir lite enklare att fixa hemsidan med hjälp av det. 
+
+
