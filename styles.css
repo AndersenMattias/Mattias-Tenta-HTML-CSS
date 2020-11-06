@@ -9,11 +9,11 @@ body {
   background-color: rgb(114, 177, 177);
   font-family: 'Montserrat', sans-serif;
   color: rgba(0, 0, 0, 0.858); 
-  max-width: 100%;
+  width: 100%;
   height: 100vh;
+  overflow-y: hidden;
+  overflow-x: hidden;
 }
-
-
 
 .navbar {
   display: flex;
@@ -93,7 +93,9 @@ body {
   transform: rotate(180deg);
 }
 
-
+.länkar {
+  display: none;
+}
 
 /* grafiska slut */
 
@@ -129,5 +131,9 @@ body {
   .knapp {
     width: 50%;
   } 
+
+  .icon {
+    width: 25%;
+  }
 
 }
