@@ -19,4 +19,4 @@ footer är i botten med en copy tag t.ex, man får bättre koll på det hela
 Flexbox är smidigt på en navbar, eller wrappa allt content i en "container" blir lite enklare att fixa hemsidan med hjälp av det. 
 
 
-Ändring för att testa git
+Ändring för att testa LJKASHDL KJAMSHDLCJHMASLf,ALKJC;LAK git
